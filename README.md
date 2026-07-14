@@ -114,7 +114,8 @@ The dataset contains approximately **150,000 ride booking records** including:
 
 
 ### Overview Dashboard
-<img width="1201" height="736" alt="Screenshot 2026-07-09 145048" src="https://github.com/user-attachments/assets/17cb9154-7a6a-4edb-9c0f-4c0af88ff443" />
+<img width="1205" height="710" alt="Screenshot 2026-07-09 145057" src="https://github.com/user-attachments/assets/06cf3201-2029-4963-aef2-c8aba408a8cd" />
+
 <img width="1160" height="695" alt="Screenshot 2026-07-09 145121" src="https://github.com/user-attachments/assets/5a29877b-0054-4041-b6f1-fc01ccce2a44" />
 
 
@@ -176,7 +177,7 @@ Uber-Ride-Booking-Analysis/
 
 **Sadaf Shaikh**
 
-- LinkedIn: https://www.linkedin.com/in/sadafshaikhh)
+- LinkedIn: https://www.linkedin.com/in/sadafshaikhh
 - GitHub: https://github.com/SadafShaikh06
 
 ---
